@@ -33,17 +33,14 @@ For this deliverable, you have the following tasks based on your course outline 
 
 Also, include a document explaining task distribution between team members.
 
-Please submit a clone of your project and the GitHub link on Lea. You can include everything except the “Build” folder so it fits within the limits for uploading.
-
 ### Deliverable 2
 
 For this deliverable, you have the following tasks based on your course outline **(15%)**:
 
-• Completed UI interface (Entire Navigation) – 3%  
-• Authentication (Email, SMS, call) – 3%  
+• Completed UI interface (Entire Navigation) – 4%  
+• Authentication (Email, SMS, call) – 4%  
 • Internationalization and localization - 3%  
-• API calls (JSON, Async, Threading) – 3%  
-• Using CI/CD tools - 3%
+• Using CI/CD tools - 4%
 
 Final report: **(5%)**  
 • Project Aim and description  
@@ -54,4 +51,4 @@ Final report: **(5%)**
 
 Also, include a document explaining task distribution between team members.
 
-Please submit a clone of your project and the GitHub link on Lea. You can include everything except the "node_modules" folder so it fits within the limits for uploading.
+You can include everything except the "node_modules" folder so it fits within the limits for uploading.
