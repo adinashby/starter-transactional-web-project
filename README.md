@@ -26,9 +26,9 @@ You could use tools like [Moqups](https://moqups.com/) or [Figma](https://www.fi
 For this deliverable, you have the following tasks based on your course outline **(15%)**:
 
 • UI Interface (material design, activity flow) – 3%  
-• Database connection & CRUD operations – 3%
-• API calls (JSON, Async, Threading) – 3%
-• Hosting (on an AWS server) - 3%
+• Database connection & CRUD operations – 3%  
+• API calls (JSON, Async, Threading) – 3%  
+• Hosting (on an AWS server) - 3%  
 • Using an issue-tracking software - 3%
 
 Also, include a document explaining task distribution between team members.
@@ -40,11 +40,10 @@ Please submit a clone of your project and the GitHub link on Lea. You can includ
 For this deliverable, you have the following tasks based on your course outline **(15%)**:
 
 • Completed UI interface (Entire Navigation) – 3%  
-• Authentication (Email, SMS, call) – 3%
-• Internationalization and localization - 3%
-• API calls (JSON, Async, Threading) – 3%
+• Authentication (Email, SMS, call) – 3%  
+• Internationalization and localization - 3%  
+• API calls (JSON, Async, Threading) – 3%  
 • Using CI/CD tools - 3%
-
 
 Final report: **(5%)**  
 • Project Aim and description  
