@@ -27,7 +27,7 @@ For this deliverable, you have the following tasks based on your course outline 
 
 • UI Interface (material design, activity flow) – 3%  
 • Database connection & CRUD operations – 3%  
-• API calls (JSON, Async, Threading) – 3%  
+• API calls (JSON, Async, Threading) with the appropriate documentation – 3%  
 • Hosting (on an AWS server) - 3%  
 • Using an issue-tracking software - 3%
 
