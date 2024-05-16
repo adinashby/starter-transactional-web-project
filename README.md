@@ -8,7 +8,7 @@ This template repository is the starter project for Transactional Web App. proje
 
 The holistic learning of the course will be evaluated through the term project in which a team of 2-3 students should design and implement an e-commerce website (or equivalent) from scratch.
 
-At the end of the term, each team needs to submit a project report, present their ideas and also demonstrate the app to the teacher/class. A team of two to four students (max) would be considered a team. There will be three deliverables.
+At the end of the term, each team needs to submit a project report, present their ideas and also demonstrate the app to the teacher/class. A team of two to three students (max) would be considered a team. There will be three deliverables.
 
 Team members present their project idea (PowerPoint) and design the prototype of the application.
 
