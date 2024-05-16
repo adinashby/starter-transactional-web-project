@@ -28,7 +28,7 @@ For this deliverable, you have the following tasks based on your course outline 
 • UI Interface (material design, activity flow) – 3%  
 • Database connection & CRUD operations – 3%  
 • API calls (JSON, Async, Threading) with the appropriate documentation – 3%  
-• Hosting (on an AWS server) - 3%  
+• Authentication (Email, SMS, call) - 3%  
 • Using an issue-tracking software - 3%
 
 Also, include a document explaining task distribution between team members.
@@ -38,7 +38,7 @@ Also, include a document explaining task distribution between team members.
 For this deliverable, you have the following tasks based on your course outline **(15%)**:
 
 • Completed UI interface (Entire Navigation) – 4%  
-• Authentication (Email, SMS, call) – 4%  
+• Hosting (on an AWS server) – 4%  
 • Internationalization and localization - 3%  
 • Using CI/CD tools - 4%
 
